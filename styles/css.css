@@ -1,0 +1,46 @@
+body {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+form {
+  width: 50%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #80c4de;
+  background: transparent;
+  border-radius: 0px 0px 10px 10px;
+}
+
+form .form-group {
+  margin: 10px 0px 10px 0px;
+}
+
+form .form-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+  font-weight: 100;
+}
+
+form .form-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+form .btn {
+  padding: 10px;
+  margin-bottom: 15px;
+  font-size: 15px;
+  color: white;
+  background: #5f9ead;
+  border: none;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=css.css.map */
